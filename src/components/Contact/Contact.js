@@ -31,7 +31,7 @@ const Contact = (props) => {
         <h4>Send Us A Message</h4>
         <p>
           Our Customer Service team are here for all enquiries Monday to Friday,
-         Farrukh 9am - 5pm AEDT (Australian Eastern Daylight Savings Time).
+         Farrukhd 9am - 5pm AEDT (Australian Eastern Daylight Savings Time).
         </p>
         <p>We look forward to hearing from you.</p>
       </div>
